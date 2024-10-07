@@ -10,7 +10,7 @@ Param
 
 
     [Parameter(Position=1)]
-    [int]$ResultCount = 150
+    [int]$ResultCount = 100
 )
 
     $PipelineItems = @($input)
