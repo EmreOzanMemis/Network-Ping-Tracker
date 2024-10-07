@@ -7,7 +7,7 @@ Network-Ping-Tracker.ps1 PowerShell script'i, birden fazla IP adresine veya maki
         `Param` bloğu, dışarıdan alınan girdilerin tanımlandığı parametre yapısını içerir:
             `ComputerName`: Bir veya birden fazla bilgisayar adını (veya IP adresini) alır. 
             `Mandatory`, `ValueFromPipeline`, `ValueFromPipelineByPropertyName` gibi ek özellikler ile zorunlu, boru hattından (pipeline) veya özellik adına göre alınabilir hale getirilir.
-            `ResultCount`: Kaç sonuç saklanacağını belirtir, varsayılan değeri 150'dir.
+            `ResultCount`: Kaç sonuç saklanacağını belirtir, varsayılan değeri 100'dir.
 
   Giriş Elemanlarını Yönetme:
         `$PipelineItems` değişkeni, boru hattından veya komut argümanından gelen girdileri saklar.
