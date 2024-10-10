@@ -93,7 +93,7 @@ Script'i Çalıştırın:
 
   Sonuçları Gözlemleyin:
         Ping sonuçları ekrana sürekli olarak güncellenecek ve farklı arka plan renkleri ile erişilebilirlik durumu belirtilecektir.
-        Sonuçlardaki semboller ve gecikme süreleri, ağ üzerindeki cihazların durumunu kolayca tespit etmenizi sağlar.
+        Sonuçlardaki semboller ve gecikme süreleri, ağ üzerindeki cihazların durumunu kolayca tespit etmenizi sağlar. ortamınızada test edip reponun gelişimine katkıda bulunabilrisiniz. 
 
   Kesinti veya Gecikme Analizi:
         Ekranda, ping sonuçlarının değişen sembolleri üzerinden hangi cihazlarda sorun veya yüksek gecikme olduğunu gözlemleyebilirsiniz.
